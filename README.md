@@ -31,18 +31,18 @@ Os conteúdos estão organizados da seguinte forma:
 ## 📚 Fase 4 — Capítulos
 
 ### ⚡ Capítulo 2 — A Manipulação de Dados que Sustenta as Análises Energéticas da Colônia  
-📌 Estruturas de dados em Python: listas, matrizes, tuplas e dicionários  
-👉 [Acessar capítulo](./fase-4/capitulo-2.md)
+#### 📌 Estruturas de dados em Python: listas, matrizes, tuplas e dicionários  
+##### 👉 [Acessar capítulo](./fase-4/capitulo-2.md)
 ---
 
 ### 🧠 Capítulo 3 — Os Grafos que Modelam as Rotas de Distribuição de Energia  
-📌 Grafos, BFS, DFS e Dijkstra em C  
-👉 [Acessar capítulo](./fase-4/capitulo-3.md)
+#### 📌 Grafos, BFS, DFS e Dijkstra em C  
+##### 👉 [Acessar capítulo](./fase-4/capitulo-3.md)
 ---
 
 ### 📊 Capítulo 4 — O Cálculo Diferencial que Modela as Variações do Sistema Energético  
-📌 Limites, derivadas, aplicações em física, otimização e Python (SymPy, NumPy, JAX)  
-👉 [Acessar capítulo](./fase-4/capitulo-4.md)
+#### 📌 Limites, derivadas, aplicações em física, otimização e Python (SymPy, NumPy, JAX)  
+##### 👉 [Acessar capítulo](./fase-4/capitulo-4.md)
 ---
 
 ## 🎯 Objetivo
@@ -71,7 +71,7 @@ Consolidar conhecimento em:
 
 **Isabelle Caroline de Camargo Francisco**  
 RM: **572096**  
-FIAP — Análise e Desenvolvimento de Sistemas
+FIAP — Ciência da Computação
 
 ---
 
