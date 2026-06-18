@@ -41,9 +41,7 @@ Os conteúdos estão organizados da seguinte forma:
 ---
 
 ### 📊 Capítulo 4 — O Cálculo Diferencial que Modela as Variações do Sistema Energético  
-
 📌 Limites, derivadas, aplicações em física, otimização e Python (SymPy, NumPy, JAX)  
-
 👉 [Acessar capítulo](./fase-4/capitulo-4.md)
 ---
 
