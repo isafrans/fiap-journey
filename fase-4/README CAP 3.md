@@ -2,6 +2,15 @@
 
 > Resumo do capítulo para a disciplina de **Estruturas de Dados / Algoritmos** — FIAP  
 > Autor do material: Prof. (elaborado em 2026)
+---
+
+## 👤 Informações do Aluno
+
+- **Nome:** Isabelle Caroline de Camargo Francisco  
+- **RM:** 572096  
+- **Curso:** Ciência da Computação EAD  
+- **Instituição:** FIAP  
+- **Disciplina:** Estruturas de Dados / Algoritmos  
 
 ---
 
