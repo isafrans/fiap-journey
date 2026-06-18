@@ -32,13 +32,13 @@ Os conteúdos estão organizados da seguinte forma:
 
 ### ⚡ Capítulo 2 — A Manipulação de Dados que Sustenta as Análises Energéticas da Colônia  
 📌 Estruturas de dados em Python: listas, matrizes, tuplas e dicionários  
-👉 [Acessar capítulo](./README%20CAP%202.md)
+👉 [Acessar capítulo](./capitulo-2.md)
 
 ---
 
 ### 🧠 Capítulo 3 — Os Grafos que Modelam as Rotas de Distribuição de Energia  
 📌 Grafos, BFS, DFS e Dijkstra em C  
-👉 [Acessar capítulo](./README%20CAP%203.md)
+👉 [Acessar capítulo](./capitulo-3.md)
 
 ---
 
@@ -46,7 +46,7 @@ Os conteúdos estão organizados da seguinte forma:
 
 📌 Limites, derivadas, aplicações em física, otimização e Python (SymPy, NumPy, JAX)  
 
-👉 [📘 Acessar capítulo](./README%20CAP%204.md)
+👉 [📘 Acessar capítulo](./capitulo-4.md)
 
 ---
 
