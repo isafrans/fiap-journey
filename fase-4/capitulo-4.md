@@ -26,51 +26,9 @@
 
 ## 🧠 Visão Geral
 
-Grafos são estruturas usadas para modelar **redes**: cidades e estradas, pessoas e relações sociais, roteadores e enlaces. Um grafo é formado por **vértices** (entidades) e **arestas** (conexões entre elas). O capítulo cobre desde o vocabulário básico até algoritmos clássicos de busca e caminho mínimo.
-
-![Diagrama de Grafo](graph-diagram.svg)
-
-### 🔹 Notação de uma aresta
-
-Uma aresta é representada por um par de vértices:
-
-e = (u, v)
-
-Onde:
-- **u** representa um dos vértices da ligação;
-- **v** representa o outro vértice da ligação.
-
-Em um **grafo não direcionado**, (u, v) e (v, u) representam a mesma conexão.
-
-Em um **grafo direcionado**, a ordem importa: (u, v) indica uma ligação de **u para v**.
----
-## 🔗 Representação de Arestas em Grafos
-
-Em um grafo, uma **aresta** representa a ligação entre dois vértices. Essa ligação pode ser representada pela notação **(u, v)**, em que **u** e **v** são os vértices conectados.
-
-Nos **grafos não direcionados**, a conexão é bidirecional, ou seja, (u, v) e (v, u) representam a mesma ligação.
-
-Já nos **grafos direcionados (dígrafos)**, a ordem dos vértices é importante. A aresta **(u, v)** indica uma ligação que parte de **u** e chega em **v**, sem que isso signifique necessariamente a existência da ligação inversa **(v, u)**.
-
-### Exemplo
-
-```
-A ───▶ B
-```
-
-Nesse caso, existe uma ligação de **A para B**, mas não obrigatoriamente de **B para A**.
+O cálculo diferencial fornece a linguagem matemática para descrever como grandezas variam. O capítulo parte do conceito de **limite** — que investiga o comportamento de uma função nas proximidades de um ponto sem necessariamente alcançá-lo — e avança para a **derivada**, que mede a taxa de variação instantânea. Esses dois conceitos são aplicados em problemas reais de física, finanças e otimização, com implementações práticas em Python.
 
 ---
-
-## 📋 Matriz de Adjacência
-
-Uma das formas mais comuns de representar um grafo é por meio da **matriz de adjacência**.
-
-Nessa representação, cada linha e cada coluna correspondem a um vértice. O valor armazenado na posição **(u, v)** informa se existe uma aresta ligando **u** até **v**.
-
-Por esse motivo, a matriz de adjacência permite verificar de forma muito rápida se existe uma conexão entre dois vértices específicos, bastando consultar a posição correspondente na matriz.
-
-Embora seja simples e eficiente para consultas, essa estrutura pode consumir bastante memória em grafos com poucas arestas, pois reserva espaço para todas as possíveis conexões entre os vértices.
 
 ## 📂 Conceitos Fundamentais
 
