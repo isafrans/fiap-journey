@@ -26,7 +26,9 @@
 
 ## 🧠 Visão Geral
 
-O cálculo diferencial fornece a linguagem matemática para descrever como grandezas variam. O capítulo parte do conceito de **limite** — que investiga o comportamento de uma função nas proximidades de um ponto sem necessariamente alcançá-lo — e avança para a **derivada**, que mede a taxa de variação instantânea. Esses dois conceitos são aplicados em problemas reais de física, finanças e otimização, com implementações práticas em Python.
+Grafos são estruturas usadas para modelar **redes**: cidades e estradas, pessoas e relações sociais, roteadores e enlaces. Um grafo é formado por **vértices** (entidades) e **arestas** (conexões entre elas). O capítulo cobre desde o vocabulário básico até algoritmos clássicos de busca e caminho mínimo.
+
+![Diagrama de Grafo](graph-diagram.svg)
 
 ---
 
